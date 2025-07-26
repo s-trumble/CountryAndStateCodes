@@ -1,4 +1,4 @@
-State and Country Picklists must be enabled in your Salesforce org for this to work.
+State and Country/Territory picklists must be enabled in your Salesforce org for this to work.
 
 This repository contains two invocable methods: 
 1) Find Country Code 
